@@ -2,7 +2,7 @@ name: data_sheet
 description: Data table with in-cell-edit, scroll, with callback feature for select-rows, sort,  update and custom-contents
 version: 0.0.4
 homepage: https://github.com/sanjay888/data_sheet
-repository: https://github.com/sanjay888/data_sheet
+repository: https://github.com/sanjay888/data_sheet.git
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
